@@ -1,18 +1,18 @@
 {
     "shirts": {
-        "Cool Blue Shirt": { "id": 12345678, "value": 10 },
-        "Casual Red Shirt": { "id": 87654321, "value": 15 }
+        "Freshie Rags": { "id": 15618854933, "value": 0 },
+        "Standard Suit Top": { "id": 15618172581, "value": 0 }
     },
     "pants": {
-        "Denim Jeans": { "id": 23456789, "value": 12 },
-        "Black Trousers": { "id": 98765432, "value": 18 }
+        "Freshie Shorts": { "id": 12333752411, "value": 0 },
+        "Standard Suit Bottom": { "id": 15618184478, "value": 0 }
     },
     "hairs": {
-        "Spiky Hair": { "id": 34567890, "value": 0 },
-        "Curly Hair": { "id": 65432109, "value": 0 }
+        "Spiky Hair": { "id": 16630147, "value": 0 },
+        "Starter Locs": { "id": 5269079172, "value": 0 }
     },
     "hats": {
-        "placeholder": { "id": 0, "value": 0 }
+        "Kitty Ears": { "id": 1374269, "value": 150 }
     },
     "outfits": {
         "Freshie Rags": { "shirtId": 15618854933, "pantsId": 12333752411, "value": 0 },
